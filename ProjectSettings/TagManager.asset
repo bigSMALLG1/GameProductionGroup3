@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Key
+  - pushableBlock
+  - Hole
+  - Box
+  - Wall
+  - Holes
   layers:
   - Default
   - TransparentFX
@@ -14,10 +19,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - StopMovement
   - Player
   - Ground
-  - 
+  - Block
   - 
   - 
   - 
